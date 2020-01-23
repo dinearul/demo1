@@ -1,0 +1,6 @@
+com\arul\demo\DemoApplication.class
+com\arul\demo\SampleController.class
+com\arul\demo\SampleEntity.class
+com\arul\demo\DemoService.class
+com\arul\demo\SampleService.class
+com\arul\demo\SampleRepository.class
